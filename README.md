@@ -137,17 +137,11 @@ streamlit run app.py
 - View predicted emotion  
 - Check probability distribution  
 
----
+#Live demo
+```bash
+https://speech-emotion-recognition-v7t6.onrender.com/
+```
 
-## Future Improvements
-
-- Support real-time audio emotion detection  
-- Use transformer / CRNN-based architecture  
-- Replace SelectKBest with PCA or autoencoders  
-- Improve dataset diversity and augmentation  
-- Add emotion tracking dashboard  
-
----
 
 ## Requirements
 
@@ -160,3 +154,5 @@ streamlit run app.py
 - matplotlib  
 - streamlit  
 - joblib  
+
+
