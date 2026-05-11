@@ -1,10 +1,9 @@
-streamlit==1.57.0
+streamlit
 numpy==1.26.4
-pandas==2.3.3
-scikit-learn==1.7.2
-scipy==1.15.3
-librosa==0.11.0
-soundfile==0.13.1
-joblib
+pandas
+scikit-learn
+librosa==0.10.1
 tensorflow==2.15.0
-keras==2.15.0
+scipy==1.11.4
+soundfile
+joblib
