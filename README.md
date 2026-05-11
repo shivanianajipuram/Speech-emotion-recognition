@@ -141,6 +141,8 @@ streamlit run app.py
 ```bash
 https://speech-emotion-recognition-v7t6.onrender.com/
 ```
+##NOTE:
+Sample inputs provided in input folder
 
 
 ## Requirements
